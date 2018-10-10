@@ -1,0 +1,8 @@
+mail:
+    host: smtp.gmail.com
+    port: 587
+    username: oheredia20122063@gmail.com
+    password: Heredia92
+    properties.mail.smtp:
+      auth: true
+      starttls.enable: true
